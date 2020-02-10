@@ -1,0 +1,10 @@
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.csprojAssemblyReference.cache
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.Form1.resources
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.Properties.Resources.resources
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.csproj.GenerateResource.cache
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.csproj.CoreCompileInputs.cache
+C:\Users\Chachomado\source\repos\Literally\Literally\bin\Debug\Literally.exe.config
+C:\Users\Chachomado\source\repos\Literally\Literally\bin\Debug\Literally.exe
+C:\Users\Chachomado\source\repos\Literally\Literally\bin\Debug\Literally.pdb
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.exe
+C:\Users\Chachomado\source\repos\Literally\Literally\obj\Debug\Literally.pdb
